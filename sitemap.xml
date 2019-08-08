@@ -4,16 +4,39 @@
   
   <url>
     <loc>https://gaius.coffee/lastreverie/pages/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gaius.coffee/lastreverie/pages/builder/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gaius.coffee/lastreverie/pages/download/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gaius.coffee/lastreverie/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gaius.coffee/lastreverie/posts/my-first-post/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gaius.coffee/lastreverie/posts/</loc>
+    <lastmod>2019-08-08T20:36:49+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gaius.coffee/lastreverie/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gaius.coffee/lastreverie/</loc>
     <priority>0</priority>
   </url>
   

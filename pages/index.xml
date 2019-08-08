@@ -6,9 +6,28 @@
     <description>Recent content on Last Reverie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 08 Aug 2019 20:36:49 +0800</lastBuildDate>
     
 	<atom:link href="https://gaius.coffee/lastreverie/pages/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Character Builder</title>
+      <link>https://gaius.coffee/lastreverie/pages/builder/</link>
+      <pubDate>Thu, 08 Aug 2019 20:36:49 +0800</pubDate>
+      
+      <guid>https://gaius.coffee/lastreverie/pages/builder/</guid>
+      <description>Character Builder. Under Construction.</description>
+    </item>
+    
+    <item>
+      <title>Download</title>
+      <link>https://gaius.coffee/lastreverie/pages/download/</link>
+      <pubDate>Thu, 08 Aug 2019 20:36:49 +0800</pubDate>
+      
+      <guid>https://gaius.coffee/lastreverie/pages/download/</guid>
+      <description>Download Links. Under Construction.</description>
+    </item>
     
   </channel>
 </rss>
