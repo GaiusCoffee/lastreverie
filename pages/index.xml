@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Last Reverie</title>
-    <link>https://gaius.coffee/lastremnant/pages/</link>
+    <link>https://gaius.coffee/lastreverie/pages/</link>
     <description>Recent content on Last Reverie</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://gaius.coffee/lastremnant/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gaius.coffee/lastreverie/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
