@@ -1,0 +1,15 @@
+baseURL = "https://gaius.coffee/lastremnant/"
+languageCode = "en-us"
+title = "Last Reverie"
+theme = "hyde"
+
+[params]
+    description = "Pen & Paper TTRPG \n Inspired by Final Fantasy \n Powered by the Apocalypse"
+
+[menu]
+    [[menu.main]]
+        name = "Download"
+        url = "/pages/download"
+    [[menu.main]]
+        name = "Character Builder"
+        url = "/pages/builder"
